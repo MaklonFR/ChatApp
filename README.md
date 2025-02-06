@@ -47,3 +47,7 @@ $conn = new mysqli($host, $user, $pass, $db);
 - Letakkan folder `chatapp` di dalam direktori `htdocs` XAMPP.
 - Buka browser dan akses `http://localhost/chatapp`.
 
+## Result
+
+![chat-app](https://github.com/user-attachments/assets/86bde7fe-4deb-40a5-9b59-97a5973c3528)
+

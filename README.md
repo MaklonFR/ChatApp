@@ -33,13 +33,15 @@ Aplikasi chatapp sederhana yang dibangun menggunakan HTML, CSS, JavaScript, AJAX
 4.**Konfigurasi Koneksi Database:**
 - Buka file `config.php` di folder `php` dan sesuaikan dengan konfigurasi database Anda:
 
-```<?php
+```
+<?php
 $host = 'localhost';
 $db = 'chatapp';
 $user = 'root';
 $pass = '';
 $conn = new mysqli($host, $user, $pass, $db);
-?>```
+?>
+```
 
 5. **Jalankan Aplikasi:**
 - Letakkan folder `chatapp` di dalam direktori `htdocs` XAMPP.
